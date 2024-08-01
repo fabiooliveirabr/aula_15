@@ -21,6 +21,12 @@ Texto normal pode ser escrito aqui.
 2. Segundo item
 3. Terceiro item
 
+<ul>
+  <li>skdlskds</li>
+  <li>lskdlskdlsksd</li>
+</ul>
+
+
 ### Código
 ```python
 print("Olá, mundo!")
