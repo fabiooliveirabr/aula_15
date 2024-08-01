@@ -31,3 +31,20 @@ print("Olá, mundo!")
 3. Extraia os arquivos baixados.
 4. Navegue até o diretório extraído e execute `setup.py`:
 
+
+# Manual do Software
+
+## Índice
+- [Instalação](INSTALACAO.md)
+- [Uso](USO.md)
+
+## Introdução
+Este é o manual do software. Aqui você encontrará todas as informações necessárias para instalar e usar o software.
+
+### Instalação
+Veja as instruções de instalação [aqui](INSTALACAO.md).
+
+### Uso
+Veja como usar o software [aqui](USO.md).
+
+
