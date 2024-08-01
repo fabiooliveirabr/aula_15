@@ -17,3 +17,10 @@ Texto normal pode ser escrito aqui.
 ### Código
 ```python
 print("Olá, mundo!")
+
+
+### Lista ordenada
+1. Primeiro item
+2.  Segundo item
+3. Terceiro item
+
