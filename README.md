@@ -17,7 +17,8 @@ Texto normal pode ser escrito aqui.
 ### Código
 ```python
 print("Olá, mundo!")
-```python
+```
+
 
 ### Lista ordenada
 1. Primeiro item
