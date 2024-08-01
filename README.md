@@ -25,3 +25,9 @@ print("Olá, mundo!")
 2.  Segundo item
 3. Terceiro item
 
+## Passos de Instalação
+1. Baixe o software do [site oficial](http://exemplo.com).
+2. Baixe o software do http://exemplo.com.
+3. Extraia os arquivos baixados.
+4. Navegue até o diretório extraído e execute `setup.py`:
+
